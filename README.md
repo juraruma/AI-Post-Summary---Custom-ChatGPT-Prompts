@@ -41,6 +41,9 @@ Perfect for bloggers, content creators, and WordPress site owners
 who want to add AI-powered summaries with a professional look — 
 without depending on third-party subscriptions or SaaS tools.
 
+## Screenshot
+<img width="1739" height="729" alt="ChatGPT Summarizer" src="https://github.com/user-attachments/assets/017e974f-e163-4f13-b10b-6e7d20b83253" />
+
 ## License
 
 GPL v2 or later
